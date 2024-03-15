@@ -7,4 +7,4 @@ The goal of this repository is to create a reproducible research compendium. The
 
 Use ever which way you like to use it. 
 
-The rendered `Quarto` file can be found [here](/doc/reprodev-exercise_quarto.html)
+The rendered `Quarto` file can be found [here](himayla.github.io/reprodev-exercise_quarto/doc/reprodev-exercise_quarto.html)
